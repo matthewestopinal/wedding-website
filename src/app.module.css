@@ -1,0 +1,124 @@
+.app {
+  text-align: center;
+  padding: 24px;
+}
+
+/* Start with mobile styles (no media query needed) */
+.container {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column; /* Stack vertically on mobile */
+  gap: 1rem;
+  width: 662px;
+}
+
+.titleContainer {
+  align-self: center;
+  color: #FFDFDF;
+  display: flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-self: center;
+  align-content: center;
+  flex-direction: column;
+  font-family: "gira", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 132px;
+  margin-bottom: 20px;
+  width: 100%
+}
+
+.headerImage {
+  align-self: center;
+  max-width: 100%;
+  margin-top: -16px;
+  z-index: -1;
+}
+
+.titleWords {
+  justify-self: center;
+  margin: -44px 0px;
+}
+
+.text1 {
+  color: #2e2e2e;
+  align-self: center;
+  font-family: "gira", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  font-style: normal;
+  max-width: 60%;
+}
+
+.location {
+  color: #2e2e2e;
+  font-family: "gira", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.detailsContainer {
+  background-color: #FFDFDF;
+  color: #eb4a3d;
+  font-family: "gira", sans-serif;
+  font-weight: 400;
+  width: 100%;
+}
+
+.button {
+  align-items: center;
+  background-color: #eb4a3d;
+  color: white;
+  font-weight: 500;
+  width: 128px;
+  height: 32px;
+  border-radius:8px;
+  justify-content: center;
+  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.detailsSubcontainer {
+  justify-self: center;
+  max-width: 80%;
+}
+
+.detailsTitle {
+  font-family: "emily-austin";
+  font-weight: 400;
+  font-size: 64px;
+  margin-bottom: -32px;
+}
+
+.detailsSubtitle {
+  font-weight: 400;
+  font-size: 32px;
+  margin-bottom: 32px;
+}
+
+/* Tablet and up */
+@media (min-width: 768px) {
+  .container {
+    padding: 2rem;
+    flex-direction: column; /* Side by side on tablet+ */
+  }
+}
+
+/* Desktop and up */
+@media (min-width: 1024px) {
+  .container {
+
+    max-width: 1200px;
+    margin: 0 auto; /* Center on large screens */
+  }
+}
