@@ -118,29 +118,7 @@
 @media (min-width: 1024px) {
   .container {
 
-    width: 1200px;
+    max-width: 1200px;
     margin: 0 auto; /* Center on large screens */
-  }
-
-  .titleContainer {
-    align-self: center;
-    color: #FFDFDF;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    justify-self: center;
-    align-content: center;
-    flex-direction: column;
-    font-family: "gira", sans-serif;
-    font-weight: 800;
-    font-style: normal;
-    font-size: 239px;
-    margin-bottom: 20px;
-    width: 100%
-  }
-
-  .titleWords {
-    justify-self: center;
-    margin: -80px 0px;
   }
 }
