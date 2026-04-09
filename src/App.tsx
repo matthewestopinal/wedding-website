@@ -1,8 +1,21 @@
 import React from 'react';
 import styles from './app.module.css';
 import headerImage from './assets/headerImage.jpg';
+import image1 from './assets/carousel/Carousel Image 1.jpg';
+import image2 from './assets/carousel/Carousel Image 2.jpg';
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+
+
+import { Carousel } from 'react-responsive-carousel';
 
 function App() {
+
+  //const allImages = import.meta.glob('./assets/carousel/*.jpeg')
+  const allImages = [
+    image1,
+    image2,
+  ];
+
   return (
     <div className={styles.app}>
       <div className={styles.container}>
@@ -39,24 +52,29 @@ function App() {
             <div className={styles.button}>
               DONATE HERE
             </div>
+
+            We love all the little ones in our lives!
+            However, the venue and vibes of this event are not kid friendly.
+            Please join us for this adult-only reception! 
           </div>
         </div>
 
-        <div>
-          We are so happy to have you join us to celebrate our love and marriage. 
-          Your company is the only gift we need! Please do not bring any gifts, please do not attempt to give us any money.
-          Our lives are abundant and we only wish to celebrate with our loved ones!
-          If you feel you MUST contribute, please donate to our chosen recipient the ACLU.
-        </div>
+        <Carousel
+        >
+          {allImages.map((image) => { 
+            return (
+            <div>
+              <img src={image} />
+            </div>
+          );
+          })}
+        </Carousel>
+
 
         <div>
-          DONATE HERE 
+          <img src={"./assets/headerImage.jpg"} />
         </div>
 
-        <div>
-          We love all the little ones in our lives! However, the venue and vibes of this event are not kid friendly. Please join us for this adult-only reception! 
-        </div>
-            
         <div>
           Our Story 
         </div>
