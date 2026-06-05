@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[56],{8056(e,s,i){e.exports=i.p+"static/media/Miss Marble.ff97902bab4482d92874.jpg"}}]);

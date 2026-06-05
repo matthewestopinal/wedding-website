@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[798],{6798(e,i,s){e.exports=s.p+"static/media/DSC02533 copy_1080x1080.a43b83240c7974067132.jpg"}}]);

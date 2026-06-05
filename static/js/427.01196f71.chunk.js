@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[427],{3427(e,s,a){e.exports=a.p+"static/media/Carousel Image 2_1080x1080.5cc7acfd38de21ff0881.jpg"}}]);
