@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[267],{8267(e,i,s){e.exports=s.p+"static/media/IMG_1210_10_11zon.462d8774b7e8529c81de.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[236],{3236(e,i,s){e.exports=s.p+"static/media/IMG_2838.5e14352e7f2d66c9f261.jpg"}}]);

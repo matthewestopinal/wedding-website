@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[478],{478(e,i,s){e.exports=s.p+"static/media/DSC01334_copy_3_11zon.3520a4bb5e7651e53705.jpg"}}]);
