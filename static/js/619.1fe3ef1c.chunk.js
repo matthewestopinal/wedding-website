@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[619],{6619(e,a,s){e.exports=s.p+"static/media/Carousel Image 1.4ba3c7c9f7a1b5c19a5b.jpg"}}]);

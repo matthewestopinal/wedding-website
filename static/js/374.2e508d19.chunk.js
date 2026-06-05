@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwedding_website=globalThis.webpackChunkwedding_website||[]).push([[374],{5374(e,i,s){s.r(i);s(6967)}}]);
