@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f36f8a0.css",
-    "main.js": "/static/js/main.a78057d3.js",
+    "main.css": "/static/css/main.dba90f40.css",
+    "main.js": "/static/js/main.6bdb6ca1.js",
     "static/js/619.1fe3ef1c.chunk.js": "/static/js/619.1fe3ef1c.chunk.js",
     "static/js/100.ccda14cb.chunk.js": "/static/js/100.ccda14cb.chunk.js",
+    "static/js/81.d55773ed.chunk.js": "/static/js/81.d55773ed.chunk.js",
+    "static/js/345.61c579ff.chunk.js": "/static/js/345.61c579ff.chunk.js",
+    "static/js/484.3ef13baf.chunk.js": "/static/js/484.3ef13baf.chunk.js",
+    "static/js/677.e3dd25b0.chunk.js": "/static/js/677.e3dd25b0.chunk.js",
+    "static/js/154.854936fd.chunk.js": "/static/js/154.854936fd.chunk.js",
+    "static/js/141.06db342a.chunk.js": "/static/js/141.06db342a.chunk.js",
     "static/js/59.7d03e732.chunk.js": "/static/js/59.7d03e732.chunk.js",
     "static/js/374.2e508d19.chunk.js": "/static/js/374.2e508d19.chunk.js",
     "static/js/453.67c0f2bb.chunk.js": "/static/js/453.67c0f2bb.chunk.js",
@@ -11,15 +17,21 @@
     "static/media/Carousel Image 1.jpg": "/static/media/Carousel Image 1.4ba3c7c9f7a1b5c19a5b.jpg",
     "static/media/Carousel Image 2.jpg": "/static/media/Carousel Image 2.c98f003a262096eb0dae.jpg",
     "static/media/headerImage.jpg": "/static/media/headerImage.be703e62b313c7423cc9.jpg",
+    "static/media/IMG_2677.jpg": "/static/media/IMG_2677.ab7f65cdf355a3e8f82d.jpg",
+    "static/media/IMG_2538.jpg": "/static/media/IMG_2538.c319f8fd045b3c6f2413.jpg",
+    "static/media/IMG_2614.jpg": "/static/media/IMG_2614.775e583a578aec9f2bee.jpg",
+    "static/media/IMG_4971.jpg": "/static/media/IMG_4971.65a5cd37b6ee9ea3fe64.jpg",
+    "static/media/IMG_4990.jpg": "/static/media/IMG_4990.b3391c4d7d3215389b09.jpg",
+    "static/media/88DA1525-28C3-4935-BF7A-B77297E4D4C7.jpg": "/static/media/88DA1525-28C3-4935-BF7A-B77297E4D4C7.5430149fa563e0abe4b8.jpg",
     "static/media/Getting Married Image.png": "/static/media/Getting Married Image.a94b6da6cbfe57b52a4e.png",
     "index.html": "/index.html",
-    "main.2f36f8a0.css.map": "/static/css/main.2f36f8a0.css.map",
-    "main.a78057d3.js.map": "/static/js/main.a78057d3.js.map",
+    "main.dba90f40.css.map": "/static/css/main.dba90f40.css.map",
+    "main.6bdb6ca1.js.map": "/static/js/main.6bdb6ca1.js.map",
     "453.67c0f2bb.chunk.js.map": "/static/js/453.67c0f2bb.chunk.js.map",
     "967.db75ca29.chunk.js.map": "/static/js/967.db75ca29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f36f8a0.css",
-    "static/js/main.a78057d3.js"
+    "static/css/main.dba90f40.css",
+    "static/js/main.6bdb6ca1.js"
   ]
 }
