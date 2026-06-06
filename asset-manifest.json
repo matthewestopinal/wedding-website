@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3d7c5911.css",
-    "main.js": "/static/js/main.8afb21de.js",
+    "main.js": "/static/js/main.9627746e.js",
     "static/js/360.6197f1e1.chunk.js": "/static/js/360.6197f1e1.chunk.js",
     "static/js/427.01196f71.chunk.js": "/static/js/427.01196f71.chunk.js",
     "static/js/426.6d2d62e5.chunk.js": "/static/js/426.6d2d62e5.chunk.js",
@@ -43,8 +43,8 @@
     "static/js/374.2e508d19.chunk.js": "/static/js/374.2e508d19.chunk.js",
     "static/js/215.c7c683eb.chunk.js": "/static/js/215.c7c683eb.chunk.js",
     "static/js/967.c5fab68e.chunk.js": "/static/js/967.c5fab68e.chunk.js",
-    "static/media/headerImage.jpg": "/static/media/headerImage.be703e62b313c7423cc9.jpg",
     "static/media/IMG_2538.jpg": "/static/media/IMG_2538.bec8fb872001ac655e58.jpg",
+    "static/media/headerImage.jpg": "/static/media/headerImage.b1a15bce30d0e80702d1.jpg",
     "static/media/IMG_4990.jpg": "/static/media/IMG_4990.832b3e0d3e0948e94bed.jpg",
     "static/media/IMG_2677.jpg": "/static/media/IMG_2677.534729ca1c9ffb078b86.jpg",
     "static/media/Miss Marble 2.jpg": "/static/media/Miss Marble 2.afa8d55c7547e83a9d23.jpg",
@@ -84,12 +84,12 @@
     "static/media/Getting Married Image.png": "/static/media/Getting Married Image.a94b6da6cbfe57b52a4e.png",
     "index.html": "/index.html",
     "main.3d7c5911.css.map": "/static/css/main.3d7c5911.css.map",
-    "main.8afb21de.js.map": "/static/js/main.8afb21de.js.map",
+    "main.9627746e.js.map": "/static/js/main.9627746e.js.map",
     "215.c7c683eb.chunk.js.map": "/static/js/215.c7c683eb.chunk.js.map",
     "967.c5fab68e.chunk.js.map": "/static/js/967.c5fab68e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d7c5911.css",
-    "static/js/main.8afb21de.js"
+    "static/js/main.9627746e.js"
   ]
 }
