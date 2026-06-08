@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.28dc6378.css",
-    "main.js": "/static/js/main.d0cf3e59.js",
+    "main.css": "/static/css/main.a29e9e13.css",
+    "main.js": "/static/js/main.d4ce7158.js",
     "static/js/360.6197f1e1.chunk.js": "/static/js/360.6197f1e1.chunk.js",
     "static/js/427.01196f71.chunk.js": "/static/js/427.01196f71.chunk.js",
     "static/js/426.6d2d62e5.chunk.js": "/static/js/426.6d2d62e5.chunk.js",
@@ -83,13 +83,13 @@
     "static/media/IMG_2439_1080x1080.jpg": "/static/media/IMG_2439_1080x1080.c82533123bf65a02c81c.jpg",
     "static/media/Getting Married Image.png": "/static/media/Getting Married Image.a94b6da6cbfe57b52a4e.png",
     "index.html": "/index.html",
-    "main.28dc6378.css.map": "/static/css/main.28dc6378.css.map",
-    "main.d0cf3e59.js.map": "/static/js/main.d0cf3e59.js.map",
+    "main.a29e9e13.css.map": "/static/css/main.a29e9e13.css.map",
+    "main.d4ce7158.js.map": "/static/js/main.d4ce7158.js.map",
     "215.c7c683eb.chunk.js.map": "/static/js/215.c7c683eb.chunk.js.map",
     "967.c5fab68e.chunk.js.map": "/static/js/967.c5fab68e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28dc6378.css",
-    "static/js/main.d0cf3e59.js"
+    "static/css/main.a29e9e13.css",
+    "static/js/main.d4ce7158.js"
   ]
 }
